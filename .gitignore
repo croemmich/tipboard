@@ -2,3 +2,6 @@ tipboard.egg-info/
 /.idea/*
 *.pyc
 *.swp
+/tb-env/
+/build/
+/dist/
